@@ -4,7 +4,7 @@ import ListarTarefa from "./pages/tarefa/ListarTarefa";
 function App() {
   return (
     <div className="App">
-      <Header />
+      {/* <Header /> */}
       <ListarTarefa />
     </div>
   );
